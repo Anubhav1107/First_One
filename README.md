@@ -1,4 +1,5 @@
-# First_One
+# learning through udacity nanodegree course
+
 Trying github
 
 
